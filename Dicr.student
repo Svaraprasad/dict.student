@@ -1,0 +1,2 @@
+student={'sno':1,'sname':'prasad','gender':'male','group':'mccs','result':'pass'}
+print(student)
